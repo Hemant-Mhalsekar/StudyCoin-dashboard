@@ -8,8 +8,8 @@ This project demonstrates design sense, interactivity, and smooth user experienc
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Project](https://your-live-demo-link-here.netlify.app/)**  
-💻 **GitHub Repository:** [StudyCoin Dashboard Card](https://github.com/your-username/studycoin-dashboard-card)
+🔗 **[View Live Project](https://studycoindashbord.netlify.app/)**  
+💻 **GitHub Repository:** [StudyCoin Dashboard Card](https://github.com/Hemant-Mhalsekar/StudyCoin-dashboard.git)
 
 ---
 
@@ -33,14 +33,6 @@ The goal was to **design and implement a smooth, modern front-end component** th
 - **CSS3** – Styling, animations, responsiveness  
 - **JavaScript (ES6)** – Interactivity and micro-animations  
 - **Netlify / GitHub Pages** – Deployment
-
----
-
-## 🖼️ Screenshot
-
-![StudyCoin Dashboard Card Screenshot](./screenshot.png)
-
-> *(Replace the image above with your actual screenshot file once you add it to your repo.)*
 
 ---
 
@@ -80,8 +72,8 @@ studycoin-dashboard-card/
 Front-End Developer | MCA (AI & ML) | Jain (Deemed-to-be University)  
 📍 Bangalore, India  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hemantmhalsekar)  
-🔗 [GitHub](https://github.com/hemantmhalsekar)
+🔗 [LinkedIn](www.linkedin.com/in/hemant-mhalsekar-464a50244)  
+🔗 [GitHub](https://github.com/Hemant-Mhalsekar)
 
 ---
 
