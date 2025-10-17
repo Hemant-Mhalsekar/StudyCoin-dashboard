@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>StudyCoin Dashboard Card</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="card">
+    <div class="card-header">
+      <img src="https://i.pravatar.cc/100?img=12" alt="User Avatar" class="avatar" />
+      <div class="user-info">
+        <h2 class="username">Hemant Mhalsekar</h2>
+        <p class="subtitle">Student Dashboard</p>
+      </div>
+    </div>
+
+    <div class="progress-section">
+      <p class="progress-text">Course Progress</p>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progress-fill"></div>
+      </div>
+      <p class="progress-percent">75% completed</p>
+    </div>
+
+    <div class="rewards-section">
+      <p class="coins-label">StudyCoins Earned</p>
+      <div class="coin-balance">
+        <img src="https://cdn-icons-png.flaticon.com/512/616/616408.png" alt="Coin Icon" class="coin-icon" />
+        <h3 class="coins">120 <span>SC</span></h3>
+      </div>
+    </div>
+
+    <button class="cta-btn" id="cta-btn">Continue Learning</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
